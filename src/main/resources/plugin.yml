@@ -1,0 +1,11 @@
+name: BoredParkour
+version: '${project.version}'
+main: com.pnsdev.boredparkour.BorderParkour
+api-version: 1.17
+authors: [ PnsDev ]
+description: A parkour system for when you're bored
+website: https://pnsdev.com
+commands:
+  start:
+    usage: /start
+    description: Start a parkour session

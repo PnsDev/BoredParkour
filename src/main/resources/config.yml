@@ -1,0 +1,12 @@
+World: world
+Boundary:
+  min:
+    X: 0
+    Y: 0
+    Z: 0
+  max:
+    X: 0
+    Y: 0
+    Z: 0
+
+
